@@ -1,6 +1,6 @@
 # RPG-pokemom
 username: 'Ninjasenthil'
-password: 'N!nj@senthi'
+password: 'Ninjasenthil404'
 
 username: 'CrazyKratos'
-password: 'N!nj@senthi'
+password: 'Ninjasenthil404'
